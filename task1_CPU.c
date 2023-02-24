@@ -32,4 +32,6 @@ int main()
     printf("%lf\n", arr_sum);
     printf("Done!\n");
     return 0;
+    
+    free(arr);
 }
